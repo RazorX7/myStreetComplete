@@ -1,0 +1,9 @@
+# Do not edit. Source files are in /res/country_metadata
+isAdvisorySpeedLimitKnown: true
+isLivingStreetKnown: true
+isSlowZoneKnown: true
+mobileCountryCode: 250
+officialLanguages: [ru]
+orchardProduces: [apple, tomato, grape, plum, strawberry, raspberry, cherry, apricot, pear, peach,
+  blueberry, tea, hop, orange]
+popularSports: [soccer, basketball, tennis, field_hockey, volleyball, ice_hockey]

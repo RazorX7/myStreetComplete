@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Records_item">
+        <item>record1</item>
+        <item>record2</item>
+        <item>record3</item>
+        <item>record4</item>
+        <item>record5</item>
+        <item>record6</item>
+        <item>record7</item>
+    </string-array>
+</resources>

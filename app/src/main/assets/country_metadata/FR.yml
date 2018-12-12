@@ -1,0 +1,11 @@
+# Do not edit. Source files are in /res/country_metadata
+additionalStreetsignLanguages: [oc, ca, br]
+additionalValidHousenumberRegex: \p{N}{1,4}\sbis
+isAdvisorySpeedLimitKnown: true
+isLivingStreetKnown: true
+isSlowZoneKnown: true
+mobileCountryCode: 208
+officialLanguages: [fr]
+orchardProduces: [grape, apple, walnut, plum, olive, apricot, peach, cherry, chestnut, pear, hazelnut,
+  kiwi, strawberry, tomato, blueberry]
+popularSports: [soccer, tennis, basketball, boules, equestrian, rugby]

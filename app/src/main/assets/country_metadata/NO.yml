@@ -1,0 +1,7 @@
+# Do not edit. Source files are in /res/country_metadata
+isAdvisorySpeedLimitKnown: true
+isLivingStreetKnown: true
+isSlowZoneKnown: true
+mobileCountryCode: 242
+officialLanguages: [nb, nn, 'no']
+orchardProduces: [strawberry, apple, plum, raspberry, cherry, pear, tomato, blueberry]

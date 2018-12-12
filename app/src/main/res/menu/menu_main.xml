@@ -1,0 +1,23 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item android:id="@+id/action_undo" android:title="@string/action_undo"
+          android:icon="@drawable/ic_undo_white_24dp" android:orderInCategory="1" app:showAsAction="ifRoom" />
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+          android:orderInCategory="4" app:showAsAction="never" />
+    <item
+        android:id="@+id/action_download"
+        android:orderInCategory="3"
+        android:title="@string/action_download" />
+    <item
+        android:id="@+id/action_record"
+        android:orderInCategory="9"
+        android:title="Records" />
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="8"
+        android:title="@string/action_about" />
+
+</menu>

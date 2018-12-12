@@ -1,0 +1,7 @@
+# Do not edit. Source files are in /res/country_metadata
+isAdvisorySpeedLimitKnown: false
+isLivingStreetKnown: true
+isSlowZoneKnown: true
+mobileCountryCode: 274
+officialLanguages: [is]
+orchardProduces: [tomato]

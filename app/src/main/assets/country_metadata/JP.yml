@@ -1,0 +1,10 @@
+# Do not edit. Source files are in /res/country_metadata
+additionalStreetsignLanguages: [en]
+isAdvisorySpeedLimitKnown: true
+isLeftHandTraffic: true
+mobileCountryCode: 440
+officialLanguages: [ja]
+orchardProduces: [tea, apple, persimmon, chestnut, grape, apricot, pear, tomato, peach, strawberry,
+  cherry, chilli_pepper, sweet_pepper, plum, orange, kiwi]
+popularReligions: [shinto, buddhist]
+popularSports: [tennis, baseball]
