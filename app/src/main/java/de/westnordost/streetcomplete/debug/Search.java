@@ -88,4 +88,8 @@ public class Search extends SampleActivity {
 	public int add(int x,int y){
 		return x+y;
 	}
+
+	public int multiple(int x,int y){
+		return x*y;
+	}
 }
